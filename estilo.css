@@ -14,21 +14,21 @@ body{
 	
 }
 header{
-	margin: auto;
+	margin:30px auto;
 	
 	width: 80%;
 	height: 200px;
 }
 img{
-	width: 130px;
-	height: 150px;
+	width: 20%;
+	height: 25%;
 	float: left;
-	margin: 20px;
+	margin: 30px;
 }
 #datos{
 	margin: 20px;
 	padding: 10px;
-	width: 400px;
+	width: 43%;
 	float:right;
 }
 p{
